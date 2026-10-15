@@ -1,0 +1,9 @@
+{
+    "name": "root/imprenta",
+    "autoload": {
+        "psr-4": {
+            "Imprenta\\": "app/"
+        }
+    },
+    "require": {}
+}
